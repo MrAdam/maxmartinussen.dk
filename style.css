@@ -1,0 +1,12 @@
+.container-fluid {
+  margin-top: 20px;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.link {
+  color: #337ab7;
+  cursor: pointer;
+}
